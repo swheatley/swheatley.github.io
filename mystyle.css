@@ -1,0 +1,46 @@
+
+body{
+width:900px;
+height: 1200px;
+
+
+
+
+
+}
+
+h1{
+text-align: center;
+font-size: 60px;
+
+
+}
+h2{
+margin-left: 20px;
+border-bottom: 5px solid;
+
+}
+
+.summ{
+
+margin-left: 25px;
+
+}
+.number{
+display: inline-block;
+margin-left: 290px;
+padding: 5px;
+
+
+
+}
+
+.email{
+display: inline;
+padding: 5px;
+float: right;
+margin-right: 290px;
+
+
+
+}
